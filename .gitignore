@@ -1,0 +1,21 @@
+# Node stuff
+node_modules/
+.env
+
+# Build
+dist/
+build/
+
+# Logs
+logs
+*.log
+
+# Vite/React build output
+client/dist/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
